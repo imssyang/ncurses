@@ -1,0 +1,2 @@
+# ncurses
+/opt/ncurses
